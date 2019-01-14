@@ -1,6 +1,0 @@
-images
-index.html
-main.css
-publications.html
-resources
-system.html
